@@ -97,11 +97,11 @@ An easy and free way to deploy this repo is by using vercel. Just use the button
 
     Example in vercel:
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage1.PNG?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage1.png?raw=true)
 
 2. Visit this url: [Shields.io](https://shields.io/endpoint) and scroll down
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage2.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage2.PNG?raw=true)
 
 3. Add your vercel url to the **url** field
 4. Add your wanted url suffix:
