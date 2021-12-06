@@ -27,5 +27,39 @@ That's why, I've created this project, which will help you to create Live YouTub
 | social        | ![Custom badge](https://img.shields.io/endpoint?style=social&url=https://youtube-channel-badge.ngoldack.vercel.app/api/subscriber)        |
 
 
+## Features
+* [X] Caching Functionality to Prevent Rate Limiting
+* [X] Using Free API for fetching LIVE YouTube Stats
+* [X] Converts Integer (e.g. 10700) to K-Thousand, M-Million, B-Billion, T-Trillion Number (e.g. 10.7K)
+* [X] Very Low Latency as Whole Project is Written in GoLang
 
+## Commands For Local Testing
+* How to use on Windows Server for testing purposes
+```
+# Export Cache Time Global Variable
+SET CACHE_TIME=10
 
+# Export CHANNEL_ID Global Variable containing your YouTube Channel ID
+SET CHANNEL_ID=UCRv-wp0CWXXXXXX3NkTIXXX  
+
+# Running API
+go run .
+
+# Visit: http://localhost:8090/subscribers
+```
+
+* How to use on Linux Server for testing purposes
+```
+# Export Cache Time Global Variable
+export CACHE_TIME=10
+
+# Export CHANNEL_ID Global Variable containing your YouTube Channel ID
+export CHANNEL_ID=UCRv-wp0CWXXXXXX3NkTIXXX
+
+# Running API
+go run .
+
+# Visit: http://localhost:8090/subscribers
+```
+
+## Deployment
