@@ -97,11 +97,11 @@ An easy and free way to deploy this repo is by using vercel. Just use the button
 
     Example in vercel:
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage1.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage1.PNG?raw=true)
 
 2. Visit this url: [Shields.io](https://shields.io/endpoint) and scroll down
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage2.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage2.png?raw=true)
 
 3. Add your vercel url to the **url** field
 4. Add your wanted url suffix:
@@ -111,12 +111,12 @@ An easy and free way to deploy this repo is by using vercel. Just use the button
 
     It should look like this:
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage3.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage3.png?raw=true)
 
 5. Override the labels/colors/logo if you want (optional)
 6. Click on the button to copy the badge url
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage4.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/usage4.png?raw=true)
 
 
 
