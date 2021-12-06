@@ -76,22 +76,22 @@ An easy and free way to deploy this repo is by using vercel. Just use the button
 
 2. Step
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy1.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy1.PNG?raw=true)
 
 3. Step
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy2.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy2.PNG?raw=true)
 
 4. Step
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy3.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy3.PNG?raw=true)
 
 5. Step
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy4.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy4.PNG?raw=true)
 
 6. Step
 
-    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy5.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/master/img/deploy5.PNG?raw=true)
 
 ## Usage
 
