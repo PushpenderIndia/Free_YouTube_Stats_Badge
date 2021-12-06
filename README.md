@@ -72,24 +72,24 @@ An easy and free way to deploy this repo is by using vercel. Just use the button
 
 ### Step by step
 
-1. Click on the **deploy** button above or click [here](https://vercel.com/new/clone?envLink=https%3A%2F%2Fgithub.com%2FPushpenderIndia%2FFree_YouTube_Stats_Badge%23configuration&envDescription=Find%20information%20on%20how%20to%20get%20these%20in%20the%20readme&env=CHANNEL_ID%2CCACHE_TIME&repository-url=https%3A%2F%2Fgithub.com%2FPushpenderIndia%2FFree_YouTube_Stats_Badge)
+1. Click on the above **deploy** button or simply click [here](https://vercel.com/new/clone?envLink=https%3A%2F%2Fgithub.com%2FPushpenderIndia%2FFree_YouTube_Stats_Badge%23configuration&envDescription=Find%20information%20on%20how%20to%20get%20these%20in%20the%20readme&env=CHANNEL_ID%2CCACHE_TIME&repository-url=https%3A%2F%2Fgithub.com%2FPushpenderIndia%2FFree_YouTube_Stats_Badge)
 
-2. Step
+2. Click on **GitHub** Button
 
     ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/deploy1.PNG?raw=true)
 
-3. Step
+3. Click on **Add GitHub Namespace** and Authorize vercel
 
     ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/deploy2.png?raw=true)
 
-4. Step
+4. After Adding the GitHub Namespace, Select your **Namespace** from the Drop down
     ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/deploy3.png?raw=true)
 
-5. Step
+5. Type Any **Repository Name** of your choice & then click on **Create** Button
 
     ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/deploy4.png?raw=true)
 
-6. Step
+6. Type your Channel ID and Cache Time, then finally click on **Deploy** Button
 
     ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/img/deploy5.png?raw=true)
 
