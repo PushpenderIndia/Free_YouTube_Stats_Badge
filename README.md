@@ -63,8 +63,6 @@ go run .
 ```
 
 ## Deployment
-
-## Deployment
 It is neccessary to deploy this repo by yourself to get a domain for the desired youtube channel.
 An easy and free way to deploy this repo is by using vercel. Just use the button below.
 
@@ -99,29 +97,26 @@ An easy and free way to deploy this repo is by using vercel. Just use the button
 
     Example in vercel:
 
-    ![url image](https://github.com/ntec-io/youtube-channel-badge/blob/master/docs/images/deployUrl.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage1.png?raw=true)
 
-2. Go to shields.io/endpoint and scroll down
+2. Visit this url: [Shields.io](https://shields.io/endpoint) and scroll down
 
-    ![url image](https://github.com/ntec-io/youtube-channel-badge/blob/master/docs/images/usage01.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage2.png?raw=true)
 
 3. Add your vercel url to the **url** field
 4. Add your wanted url suffix:
     - to get the subscriber count: add api/subscriber
-
     - to get the view count: add api/views
-
     - to get the video count: add api/videos
 
     It should look like this:
 
-    ![url image](https://github.com/ntec-io/youtube-channel-badge/blob/master/docs/images/usage02.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage3.png?raw=true)
 
 5. Override the labels/colors/logo if you want (optional)
 6. Click on the button to copy the badge url
 
-    ![url image](https://github.com/ntec-io/youtube-channel-badge/blob/master/docs/images/usage03.png?raw=true)
+    ![url image](https://github.com/PushpenderIndia/Free_YouTube_Stats_Badge/blob/main/docs/images/usage4.png?raw=true)
 
-7. Enjoy! :)
 
 
