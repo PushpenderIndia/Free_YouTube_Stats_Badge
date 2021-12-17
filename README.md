@@ -1,6 +1,8 @@
 # Free YouTube Stats Badge
 This project will help you to create Live img.shields.io Badges which will Count YouTube Stats (Subscriber, Views, Videos) without YouTube API
 
+## No Longer Maintained 
+
 ## Motive of this project
 There is no way to get YouTube Stats (Subscriber Count, Videos Count, Views Count) without using YouTube API, that's why there is no public `img.shield.io` badge which will count Live YouTube Stats for you.
 
